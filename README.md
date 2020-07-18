@@ -1,0 +1,2 @@
+# LandingPageNextjs
+Learning nextjs framework
